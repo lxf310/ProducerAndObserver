@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\ProducerAndObserver\ProducerPattern\bin\Debug\ProducerPattern.exe.config
+C:\Users\Administrator\source\repos\ProducerAndObserver\ProducerPattern\bin\Debug\ProducerPattern.exe
+C:\Users\Administrator\source\repos\ProducerAndObserver\ProducerPattern\bin\Debug\ProducerPattern.pdb
+C:\Users\Administrator\source\repos\ProducerAndObserver\ProducerPattern\obj\Debug\ProducerPattern.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ProducerAndObserver\ProducerPattern\obj\Debug\ProducerPattern.exe
+C:\Users\Administrator\source\repos\ProducerAndObserver\ProducerPattern\obj\Debug\ProducerPattern.pdb
